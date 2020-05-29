@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "kremlikon.ru.app"
         versionCode = "10"
-        version     = "1.3.0">
+        version     = "1.4.0">
 
-    <name>Онлайн-Конкурсы</name>
+    <name>Онлайн-Конкурсы Кремлевские</name>
 
     <description>
         Творческие онлайн-конкурсы: Международные, Всероссийские, Региональные, Районные
@@ -40,12 +40,12 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/8d579a6c99dd38e411d2f0fc85a568e0.png" density="ldpi" />
-        <icon src="res/android/icon/1347b84443e22ff3e45d1a7ea299a006.png" density="mdpi" />
-        <icon src="res/android/icon/d1692a7975828c4a7458446acea9f931.png" density="hdpi" />
-        <icon src="res/android/icon/50adfdbe7bbc6401fa88961071c56222.png" density="xhdpi" />
-        <icon src="res/android/icon/4e40079aa9db4adc634d19b6bff48b81.png" density="xxhdpi" />
-        <icon src="res/android/icon/903268086204fb1ab71f25f4bfabd702.png" density="xxxhdpi" />
+        <icon src="res/android/icon/9e3abd0cce77d9ad69c634d948f6152f.png" density="ldpi" />
+        <icon src="res/android/icon/ce1d27c5151a85a3b75a4eea9115487a.png" density="mdpi" />
+        <icon src="res/android/icon/ffeb9ed0de3ef01b4616fd48593f4e80.png" density="hdpi" />
+        <icon src="res/android/icon/f2089df6780e314dfd05e454a140c14c.png" density="xhdpi" />
+        <icon src="res/android/icon/3dbbf09042e6def7da43ee29177b8785.png" density="xxhdpi" />
+        <icon src="res/android/icon/f6c602a46fa6a5b8fbac5d1543362b7a.png" density="xxxhdpi" />
 
         <splash src="res/android/screen/e92dfdd900fc5b0821078cbc88545cc8.png" density="port-hdpi"/>
         <splash src="res/android/screen/4bdf46248e2ff46bc038d15aeedbe934.png" density="port-ldpi"/>
